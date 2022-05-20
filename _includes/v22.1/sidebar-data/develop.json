@@ -500,7 +500,7 @@
       "title": "SQL Playground",
       "is_top_level": true,
       "urls": [
-        "/${VERSION}/sql-playground.html"
+        "https://play.instruqt.com/embed/cockroachlabs/tracks/sql-playground-22-1?token=em_DIO4dxkRGPGezCPS"
       ]
     }
   ]

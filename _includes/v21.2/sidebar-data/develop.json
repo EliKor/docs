@@ -470,7 +470,7 @@
       "title": "SQL Playground",
       "is_top_level": true,
       "urls": [
-        "/${VERSION}/sql-playground.html"
+        "https://play.instruqt.com/embed/cockroachlabs/tracks/sql-playground-21-2?token=em_ZCWGW4_3AXnvN-ww"
       ]
     }
   ]
